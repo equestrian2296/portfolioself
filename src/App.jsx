@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Tech from './components/Tech';
 import Projects from './components/Projects';
-import Certificates from './components/certificates';
+import Certificates from './components/Certificates';
 
 export const App = () => {
   return (
